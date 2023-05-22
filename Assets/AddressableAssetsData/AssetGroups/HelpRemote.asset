@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: HelpRemote
+  m_EditorClassIdentifier: 
+  m_GroupName: HelpRemote
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d5b8241f1fbdc4b118a563225c7e8a14
+  m_SerializeEntries:
+  - m_GUID: 27e22c1839ae142d9a141cd5ccc9e266
+    m_Address: Sphere
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - android
+    - help
+  - m_GUID: 995e3052545184b5c83122ff3ab6830f
+    m_Address: Sphere
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ios
+    - en
+    - help
+  - m_GUID: fd6eec73e131d4b6d8a622f2a01ee7e7
+    m_Address: Sphere
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ios
+    - ua
+    - help
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: aee514701022442f0809a007406fadf2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 82c23380f613944408795a015acd025b, type: 2}
+    - {fileID: 11400000, guid: 66cc9a550e1354389b3282f9f0681a8e, type: 2}

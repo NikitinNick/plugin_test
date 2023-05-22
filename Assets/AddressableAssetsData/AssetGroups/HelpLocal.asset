@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: HelpLocal
+  m_EditorClassIdentifier: 
+  m_GroupName: HelpLocal
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0582955784aff45acb64f457b824de5b
+  m_SerializeEntries:
+  - m_GUID: ad9c5a9b28196469ebdd2d88965b8ca6
+    m_Address: Capsule
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - help
+    - ios
+    - ua
+  - m_GUID: c3bddefd495834e75aebd628faf1650f
+    m_Address: Cylinder
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - help
+    - ios
+    - en
+  - m_GUID: 766391bc2500c4ec096dde6b11a6fc7f
+    m_Address: Capsule
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - help
+    - ios
+    - en
+  - m_GUID: e027301a21af14765a5b91d3dc6c5e5f
+    m_Address: Cylinder
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - help
+    - ios
+    - ua
+  - m_GUID: 66a288d2d517e44df80a0b8f837f0f29
+    m_Address: Cylinder
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - help
+    - android
+  - m_GUID: 9105bc0ea0bc7478aa5759952fb29c7e
+    m_Address: Capsule
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - help
+    - android
+  - m_GUID: e24ee99310afb4ece836762215edaf65
+    m_Address: Cube
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - help
+    - ios
+    - en
+  - m_GUID: b2dad1197a8a64360853ceb4e9f40bec
+    m_Address: Cube
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - help
+    - android
+  - m_GUID: 69dc26ca7e52d499596ff0145d8b2455
+    m_Address: Cube
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - help
+    - ios
+    - ua
+  - m_GUID: dbc8a605fb57f4c4393dddf6163f776d
+    m_Address: Plain
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - help
+    - android
+  - m_GUID: ebb0bd51324604bb39c1e2ee8660147c
+    m_Address: Plain
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - help
+    - ios
+    - en
+  - m_GUID: f8f48c4352dc542f78d1d93502f7c365
+    m_Address: Plain
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - help
+    - ios
+    - ua
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: aee514701022442f0809a007406fadf2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7605d5e1c4dab42b99735fcbfeb0787d, type: 2}
+    - {fileID: 11400000, guid: 632d44e7fde4f444ea65f398789587cd, type: 2}
