@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: HelpRemote_BundledAssetGroupSchema
   m_EditorClassIdentifier: 
   m_Group: {fileID: 11400000, guid: d15af5b91dc4d4dc3a416d04d4eda847, type: 2}
-  m_InternalBundleIdMode: 1
+  m_InternalBundleIdMode: 0
   m_Compression: 1
   m_IncludeAddressInCatalog: 1
   m_IncludeGUIDInCatalog: 1
