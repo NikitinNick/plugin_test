@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: AddressableAssetSettings
   m_EditorClassIdentifier: 
   m_DefaultGroup: 517f36224abe143a0b9258b80e891328
-  m_currentHash:
+  m_CachedHash:
     serializedVersion: 2
     Hash: 00000000000000000000000000000000
   m_OptimizeCatalogSize: 0
@@ -186,4 +186,3 @@ MonoBehaviour:
     m_NextInstanceId: 4
     m_RegisteredServiceTypeRefs:
     - UnityEditor.AddressableAssets.HostingServices.HttpHostingService, Unity.Addressables.Editor
-    m_PingTimeoutInMilliseconds: 5000
