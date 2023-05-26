@@ -21,16 +21,12 @@ MonoBehaviour:
     m_Address: Assets/Content/Materials/WallColored.mat
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 146077345ce114ce48db682bc251be1e
-    m_Address: Assets/Content/Textures/TexturesCom_Wall_Stone3_2x2_512_albedo.tif
-    m_ReadOnly: 0
-    m_SerializedLabels: []
   - m_GUID: 56881b414dfd34bd2a25324c26e05b90
     m_Address: Assets/Content/Materials/PlasticColored.mat
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 78c8f44792795424280b0f25997d1618
-    m_Address: Assets/Content/Textures/TexturesCom_Plastic_SpaceBlanketFolds_512_albedo.tif
+    m_Address: plastic_texture
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0
