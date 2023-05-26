@@ -17,10 +17,6 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 69a631cd5191247b9a5633b8411d22b3
   m_SerializeEntries:
-  - m_GUID: 6035a88f56c7e4ee3b506e00cdb0add5
-    m_Address: Assets/Content/Materials/Wall.mat
-    m_ReadOnly: 0
-    m_SerializedLabels: []
   - m_GUID: d12c3cd54e3e14c19bce63bfe33dee45
     m_Address: Assets/Content/Materials/WallColored.mat
     m_ReadOnly: 0
