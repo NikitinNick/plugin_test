@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Duplicate Asset Isolation
+  m_EditorClassIdentifier: 
+  m_GroupName: Duplicate Asset Isolation
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 69a631cd5191247b9a5633b8411d22b3
+  m_SerializeEntries:
+  - m_GUID: 6035a88f56c7e4ee3b506e00cdb0add5
+    m_Address: Assets/Content/Materials/Wall.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d12c3cd54e3e14c19bce63bfe33dee45
+    m_Address: Assets/Content/Materials/WallColored.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 146077345ce114ce48db682bc251be1e
+    m_Address: Assets/Content/Textures/TexturesCom_Wall_Stone3_2x2_512_albedo.tif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: aee514701022442f0809a007406fadf2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 61ec9bfc08a8f424089e0fb77bf57ec9, type: 2}
+    - {fileID: 11400000, guid: eeec8db02616d47e78d710a79c6b0d22, type: 2}
