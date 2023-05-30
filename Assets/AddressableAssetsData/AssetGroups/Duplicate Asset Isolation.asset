@@ -29,6 +29,10 @@ MonoBehaviour:
     m_Address: plastic_texture
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: 146077345ce114ce48db682bc251be1e
+    m_Address: stone_texture
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: aee514701022442f0809a007406fadf2, type: 2}
   m_SchemaSet:
