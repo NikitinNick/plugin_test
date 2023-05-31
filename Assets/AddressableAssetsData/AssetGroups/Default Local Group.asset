@@ -10,24 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: HelpRemote
+  m_Name: Default Local Group
   m_EditorClassIdentifier: 
-  m_GroupName: HelpRemote
+  m_GroupName: Default Local Group
   m_Data:
     m_SerializedData: []
-  m_GUID: 31f602bfda3e64648b6ecf60c7045818
-  m_SerializeEntries:
-  - m_GUID: 27e22c1839ae142d9a141cd5ccc9e266
-    m_Address: SpherePlastic
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: fd6eec73e131d4b6d8a622f2a01ee7e7
-    m_Address: SphereStone
-    m_ReadOnly: 0
-    m_SerializedLabels: []
+  m_GUID: 22b1fb3b649df4bcc927753ddcbd68cb
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: aee514701022442f0809a007406fadf2, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 60111f883e0db48969ade356661c07d5, type: 2}
-    - {fileID: 11400000, guid: a66c44820ada1481b84ea8ace4374876, type: 2}
+    - {fileID: 11400000, guid: 8c4b3bc04170341cf8b9677ba1751770, type: 2}
+    - {fileID: 11400000, guid: 8297e67aeeb7c428b88e1603cd38b435, type: 2}

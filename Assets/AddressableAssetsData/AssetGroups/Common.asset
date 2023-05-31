@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Common
+  m_EditorClassIdentifier: 
+  m_GroupName: Common
+  m_Data:
+    m_SerializedData: []
+  m_GUID: bf1693903578b48f48c27f7e1594d172
+  m_SerializeEntries:
+  - m_GUID: d12c3cd54e3e14c19bce63bfe33dee45
+    m_Address: Assets/Content/Materials/plastic_material.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56881b414dfd34bd2a25324c26e05b90
+    m_Address: Assets/Content/Materials/stone_material.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 78c8f44792795424280b0f25997d1618
+    m_Address: Assets/Content/Textures/plastic.tif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 146077345ce114ce48db682bc251be1e
+    m_Address: Assets/Content/Textures/stone.tif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: aee514701022442f0809a007406fadf2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e0b9f8fa4a37e4135936541e7bffdd4c, type: 2}
+    - {fileID: 11400000, guid: a044c021c596a42dc87773433b22ae97, type: 2}
